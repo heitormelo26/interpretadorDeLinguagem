@@ -29,3 +29,9 @@ Atribua c a.
 Add c b. 
 Escreva a,´+´,b,´=´,c. 
 Pare. 
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell aaa | Content Cell  |
+| Content Cell  | Content Cell  |
