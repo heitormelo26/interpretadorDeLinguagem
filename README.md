@@ -16,13 +16,13 @@ A linguagem fictícia apresenta a seguinte sintaxe:
 
 O comando ? indica que:  Se id_v1-id_v2 = 1 atribua val2 senao val 0|? res v1,v2:10,20.
 
-Exemplo de código executável no txt:
+Exemplo de código executável no txt:<br/>
 Var a int.<br/>
-Var   b int. 
-Var c int. 
-Leia  a. 
-Leia b. 
-Atribua c a. 
-Add  c b. 
-Escreva  a,b,c. 
-Pare. 
+Var   b int.<br/> 
+Var c int.<br/> 
+Leia  a.<br/> 
+Leia b.<br/> 
+Atribua c a.<br/> 
+Add  c b.<br/> 
+Escreva  a,b,c.<br/> 
+Pare.<br/> 
