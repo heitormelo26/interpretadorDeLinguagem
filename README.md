@@ -14,5 +14,5 @@ A linguagem fictícia apresenta a seguinte sintaxe:
 | ? id_var id_v1,id_v2 : val1,val2. | ? res v1,v2:10,20.
 
 
-O comando ? -> Se id_v1-id_v2 = 1 atribua val2 senao val 0|? res v1,v2:10,20.
+O comando ? indica que:  Se id_v1-id_v2 = 1 atribua val2 senao val 0|? res v1,v2:10,20.
 
