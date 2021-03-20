@@ -17,7 +17,7 @@ A linguagem fictícia apresenta a seguinte sintaxe:
 O comando ? indica que:  Se id_v1-id_v2 = 1 atribua val2 senao val 0|? res v1,v2:10,20.
 
 Exemplo de código executável no txt:
-Var a int. \n
+Var a int.<br/>
 Var   b int. 
 Var c int. 
 Leia  a. 
