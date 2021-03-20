@@ -1,5 +1,5 @@
 # interpretadorDeLinguagem
-Esse código refere-se implementação de um interpretador de uma linguagem de programação fictícia.
+Esse código refere-se implementação de um interpretador de uma linguagem de programação fictícia. O programa recebe um txt com o código da linguagem abaixo e o executa em C++.
 
 A linguagem fictícia apresenta a seguinte sintaxe:
 
@@ -16,3 +16,13 @@ A linguagem fictícia apresenta a seguinte sintaxe:
 
 O comando ? indica que:  Se id_v1-id_v2 = 1 atribua val2 senao val 0|? res v1,v2:10,20.
 
+Exemplo de código executável no txt:
+Var a int. \n
+Var   b int. 
+Var c int. 
+Leia  a. 
+Leia b. 
+Atribua c a. 
+Add  c b. 
+Escreva  a,b,c. 
+Pare. 
