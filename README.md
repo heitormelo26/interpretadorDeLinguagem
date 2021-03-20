@@ -5,8 +5,8 @@ A linguagem fictícia apresenta a seguinte sintaxe:
 
       Sintaxe                              Exemplo
 
-1. Var id  tipo. (Obs.:  tipo=int,char)                   ->  Var v1 int.
-2. Atribua  id_var   valor.                               ->  Atribua v1 1. 
+1. Var id tipo. (Obs.:  tipo=int,char)                   ->  Var v1 int.
+2. Atribua id_var valor.                               ->  Atribua v1 1. 
 3. Add 02| sub | or | xor | and | not                     ->  Add v1 v2.  
       Operação  op1
 4. Imprima  d1,id2,id3                                    -> Imprima v1.
@@ -33,5 +33,13 @@ Pare.
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell aaa | Content Cell  |
-| Content Cell  | Content Cell  |
+| Var id tipo. (tipo=int,char)  | Var v1 int. |
+| Atribua id_var valor.  | Atribua v1 1. |
+| Operação  op1 (Operacao = Add/sub/or/xor/and/not)| Add v1 v2. |
+| Imprima  d1,id2,id3  | Imprima v1.  |
+| Leia  id_var  | Leia  v1. 
+| Pare.  | Pare. 
+| ? id_var id_v1,id_v2 : val1,val2.                      
+      Se id_v1-id_v2 = 1 atribua val2 
+          senao val 0|? res v1,v2:10,20. |
+
